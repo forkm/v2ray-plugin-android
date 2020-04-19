@@ -1,13 +1,17 @@
 ## [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) for [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android)
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="70">](https://f-droid.org/packages/com.github.shadowsocks.plugin.v2ray/)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
-     height="70">](https://play.google.com/store/apps/details?id=com.github.shadowsocks.plugin.v2ray)
+安卓客户端
 
-服务端搭建：https://github.com/forkm/Shell
+服务端配置：
+使用方法：
+    安装ss-libev或ss-rust,即ss服务端
+    安装v2ray-plugin的http模式
+    修改ss配置：路径 /etc/shadowsocks/config.json
+
+服务端搭建：
+    搭建脚本：https://github.com/forkm/Shell
+    插件下载：https://github.com/shadowsocks/v2ray-plugin/releases
+
 
 ### PREREQUISITES
 
