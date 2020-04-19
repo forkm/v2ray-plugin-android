@@ -11,9 +11,9 @@
 
 服务端搭建：
 
-    搭建脚本：https://github.com/forkm/Shell
-    插件下载：https://github.com/shadowsocks/v2ray-plugin/releases
-
+    搭建脚本：https://github.com/forkm/ss_v2ray_shell
+    直接使用脚本安装v2ray-plugin的http
+    也可以手动下载：https://github.com/shadowsocks/v2ray-plugin/releases
 
 ### PREREQUISITES
 
