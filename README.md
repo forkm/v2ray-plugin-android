@@ -4,11 +4,13 @@
 
 服务端配置：
 使用方法：
+
     安装ss-libev或ss-rust,即ss服务端
     安装v2ray-plugin的http模式
     修改ss配置：路径 /etc/shadowsocks/config.json
 
 服务端搭建：
+
     搭建脚本：https://github.com/forkm/Shell
     插件下载：https://github.com/shadowsocks/v2ray-plugin/releases
 
